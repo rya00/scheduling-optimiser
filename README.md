@@ -360,24 +360,3 @@ MIT License - See LICENSE file for details
 3. **PuLP Documentation**: https://coin-or.github.io/pulp/
 4. **Operations Research**: Winston, W.L. (2022). Operations Research: Applications and Algorithms
 
-## Contact
-
-For questions or support:
-- GitHub Issues: [Create an issue](https://github.com/your-org/scheduler/issues)
-- Email: support@scheduler.com
-- Documentation: https://docs.scheduler.com
-
-## Acknowledgments
-
-Built with:
-- [PuLP](https://github.com/coin-or/pulp) - Linear programming framework
-- [CBC](https://github.com/coin-or/Cbc) - COIN-OR Branch and Cut solver
-- [Pandas](https://pandas.pydata.org/) - Data manipulation
-- [Matplotlib](https://matplotlib.org/) - Visualization
-- [Seaborn](https://seaborn.pydata.org/) - Statistical visualization
-
----
-
-**Version**: 1.0
-**Last Updated**: 2025-10-27
-**Status**: Production Ready
